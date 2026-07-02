@@ -4,7 +4,7 @@ A web application that uses Google's Gemini API to transform basic prompts into 
 
 ## 🌐 Live Demo
 
-[View Live Application](https://elevate-29p9.onrender.com)
+[View Live Application](https://elevateprompt.app/)
 
 ## Features
 
